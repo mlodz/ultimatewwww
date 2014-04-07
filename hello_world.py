@@ -1,13 +1,13 @@
-print "Hello, World!"
-
 
 print """
 How's it going?
 
 
-Good?
+Alright?
 
-That's good. Me too.
+Whatevs.
 
-Bye!
+Bye :)
 """
+
+print "(:"
